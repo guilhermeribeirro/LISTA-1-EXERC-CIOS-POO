@@ -1,0 +1,8 @@
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\obj\Debug\EXERCÍCIO 03 LISTA POO.csproj.AssemblyReference.cache
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\obj\Debug\EXERCÍCIO 03 LISTA POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\obj\Debug\EXERCÍCIO 03 LISTA POO.csproj.CoreCompileInputs.cache
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\bin\Debug\EXERCÍCIO 03 LISTA POO.exe.config
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\bin\Debug\EXERCÍCIO 03 LISTA POO.exe
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\bin\Debug\EXERCÍCIO 03 LISTA POO.pdb
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\obj\Debug\EXERCÍCIO 03 LISTA POO.exe
+C:\Users\gui-s\source\repos\EXERCÍCIO 03 LISTA POO\EXERCÍCIO 03 LISTA POO\obj\Debug\EXERCÍCIO 03 LISTA POO.pdb

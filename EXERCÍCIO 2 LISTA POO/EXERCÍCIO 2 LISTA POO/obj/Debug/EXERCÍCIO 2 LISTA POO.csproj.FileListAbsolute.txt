@@ -1,0 +1,3 @@
+C:\Users\gui-s\source\repos\EXERCÍCIO 2 LISTA POO\EXERCÍCIO 2 LISTA POO\obj\Debug\EXERCÍCIO 2 LISTA POO.csproj.AssemblyReference.cache
+C:\Users\gui-s\source\repos\EXERCÍCIO 2 LISTA POO\EXERCÍCIO 2 LISTA POO\obj\Debug\EXERCÍCIO 2 LISTA POO.csproj.SuggestedBindingRedirects.cache
+C:\Users\gui-s\source\repos\EXERCÍCIO 2 LISTA POO\EXERCÍCIO 2 LISTA POO\obj\Debug\EXERCÍCIO 2 LISTA POO.csproj.CoreCompileInputs.cache
